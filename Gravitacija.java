@@ -1,6 +1,11 @@
 public class Gravitacija{
 	public static void main(String[] args){
 
+		izpis(0.0);
+		izpis(10.0);
+		izpis(1000.0);
+
+		
 		System.out.printf("OIS je zakon!");
 
 
